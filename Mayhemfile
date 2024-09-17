@@ -1,0 +1,5 @@
+project: functionalplus
+target: functionalplus
+
+cmds:
+  - cmd: /fuzz
